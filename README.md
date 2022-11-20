@@ -1,4 +1,4 @@
 # dotfiles
-My Linux program configuation files
+My Linux program configuration files
 
 ![AwesomeWM](assets/desktop.png "AwesomeWM")
